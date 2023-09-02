@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+}
+
+.hbaslik {
+  color: red;
+}
+
+.liste {
+  list-style: none;
+  padding: 0;
+}
+
+.liste li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.mbaslik {
+  color: blueviolet;
+}
+
+.mliste {
+  color: coral;
+}
+
+.urunler img {
+  width: 170px;
+}
+
+.hakkimizda {
+  text-align: left;
+}
+
+article h2 {
+  color: sandybrown;
+}
